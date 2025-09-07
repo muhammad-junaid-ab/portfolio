@@ -1,5 +1,5 @@
 import React from 'react';
-import ICP_LOGO from '../../public/assets/ICP_LOGO.jpg'
+import ICP_LOGO from '/assets/ICP_LOGO.jpg'
 
 const Education = () => {
   return (
