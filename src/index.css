@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+.active {
+    text-decoration: underline;
+}
+body{
+    background-color: rgb(243, 244, 246)
+}
