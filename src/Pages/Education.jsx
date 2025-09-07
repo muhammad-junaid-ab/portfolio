@@ -4,7 +4,7 @@ import ICP_LOGO from '../../public/assets/ICP_LOGO.jpg'
 const Education = () => {
   return (
     <div className="flex flex-col items-center justify-center my-5 gap-5 mx-5">
-      <h2 className="text-5xl text-center font-bold">My Education in ICP</h2>
+      <h2 className="text-5xl text-center font-bold">My Education</h2>
       <div>
         <img
           src={ICP_LOGO}
