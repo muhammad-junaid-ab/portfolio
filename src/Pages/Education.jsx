@@ -1,4 +1,5 @@
 import React from 'react';
+import ICP_LOGO from '../../public/assets/ICP_LOGO.jpg'
 
 const Education = () => {
   return (
@@ -6,7 +7,7 @@ const Education = () => {
       <h2 className="text-5xl text-center font-bold">My Education</h2>
       <div>
         <img
-          src='assets/ICP_LOGO.jpg'
+          src={ICP_LOGO}
           alt="Islamia College Peshawar Logo"
           className="rounded-full w-40 h-40 object-cover"
         />
