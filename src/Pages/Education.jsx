@@ -6,7 +6,7 @@ const Education = () => {
       <h2 className="text-5xl text-center font-bold">My Education</h2>
       <div>
         <img
-          src='/assets/ICP_LOGO.jpg'
+          src='assets/ICP_LOGO.jpg'
           alt="Islamia College Peshawar Logo"
           className="rounded-full w-40 h-40 object-cover"
         />
