@@ -1,12 +1,13 @@
 import React from 'react';
+import ICP_LOGO from '../../public/assets/ICP_LOGO.jpg'
 
 const Education = () => {
   return (
     <div className="flex flex-col items-center justify-center my-5 gap-5 mx-5">
-      <h2 className="text-5xl text-center font-bold">My Education</h2>
+      <h2 className="text-5xl text-center font-bold">My Education in ICP</h2>
       <div>
         <img
-          src='assets/ICP_LOGO.jpg'
+          src={ICP_LOGO}
           alt="Islamia College Peshawar Logo"
           className="rounded-full w-40 h-40 object-cover"
         />

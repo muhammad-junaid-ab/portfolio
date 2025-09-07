@@ -33,6 +33,28 @@ const Projects = () => {
           </div>
         </div>
 
+
+
+        {/* Basic Weather App */}
+        <div className="flex flex-col bg-gray-300 rounded-full">
+          <a
+            href="https://muhammad-junaid-ab.github.io/basic-weather-app/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="w-90 h-60 cursor-pointer hover:bg-gray-300 bg-[url('/assets/weather.jpg')] bg-cover bg-center border-2 border-gray-300 hover:border-black"
+          ></a>
+          <div className="text-center py-2 font-medium rounded-lg">
+            BASIC WEATHER APP
+          </div>
+        </div>
+
+
+
+
+
+
+
+
         {/* Contact App */}
         <div className="flex flex-col bg-gray-300 rounded-full">
           <a
